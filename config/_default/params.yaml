@@ -7,11 +7,12 @@
 
 appearance:
   theme_day: Rose
-  theme_night: Rose
   font: merriweather
   font_size: L
 
 # SEO
+
+
 
 marketing:
   seo:
