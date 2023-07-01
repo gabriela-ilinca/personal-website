@@ -23,17 +23,14 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: |-
-         Research Assistant, Summer Undergraduate Research Experience (SURE) Program
-
-        company: Emory University Department of Economics
+        - title: Research Assistant
+          company: Emory University Department of Economics
           company_url: ''
           company_logo: org-gc
           location: Atlanta
           date_start: '2023-05-01'
           date_end: ''
-          description: |2-
-            Work with researchers at the Bank of Canada in a project using the Bank’s proprietary yearly Bitcoin Omnibus Survey to investigate cryptocurrency ownership. Present weekly on research progress and findings to SURE mentor and project stakeholders.
+          description: 
         - title: Software Engineer Intern
           company: Rainforest
           company_url: ''
@@ -41,8 +38,7 @@ sections:
           location: Atlanta
           date_start: '2022-06-01'
           date_end: '2020-08-31'
-          description: |-
-           Joined a startup fintech company to develop technology for independent software vendors (ISVs) to embed payments into their product. Used Go, Python, and Vue JS to specifically collect pertinent information and details from customers using Rainforest technology and storing them in an accessible database.
+          description: 
 
           - title: Research Intern
             company: Georgia Tech Research Institute
@@ -51,8 +47,8 @@ sections:
             location: Atlanta
             date_start: '2021-06-01'
             date_end: '2020-08-31'
-            description: |-
-            Assisted in developing an Artificial Intelligence system that proactively initiates speech to support elderly people who live alone
+            description: 
+
     design:
       columns: '2'
   - block: accomplishments
