@@ -41,10 +41,10 @@ sections:
           date_end: '2022-08-30'
           description: |2-
             Joined a startup fintech company to develop technology for independent software vendors (ISVs) to embed payments into their product. Used Go, Python, and Vue JS to specifically collect pertinent information and details from customers using Rainforest technology and storing them in an accessible database.      
-        - title: Software Engineer Intern
-          company: Rainforest
+        - title: Research Intern
+          company: Georgia Tech Research Institute
           company_url: ''
-          company_logo: rain
+          company_logo: gt
           location: Atlanta
           date_start: '2022-05-01'
           date_end: '2022-08-30'
