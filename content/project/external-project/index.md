@@ -1,6 +1,6 @@
 ---
 title: Are Cryptocurrency Owners Optimistic People?
-summary: 
+summary: Gabriela Coada, Christopher Henry, Kim P. Huynh, David T. Jacho-Chavez
 tags:
   - '*'
 date: "2016-04-27T00:00:00Z"
