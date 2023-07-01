@@ -70,15 +70,15 @@ sections:
           date_start: '2023-06-01'
           description: ''
           organization: DataCamp
-          organization_url: https://www.edx.org
+          organization_url: datacamp.com
           title: Intermediate Regression with statsmodels in Python
           url: ''
-        - certificate_url: https://www.datacamp.com/statement-of-accomplishment/course/cadc9214519905881ba56b7bb0131beec4162fbf?raw=1
+        - certificate_url: https://www.datacamp.com/statement-of-accomplishment/course/823374d24fb62e8bb7e48d9ffc629d0925d0575f?raw=1
           date_end: ''
           date_start: '2023-06-01'
           description: ''
           organization: DataCamp
-          organization_url: https://www.edx.org
+          organization_url: datacamp.com
           title: Intermediate Regression with statsmodels in Python
           url: ''
 
