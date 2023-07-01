@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: Ocean
-  font: Earth
+  theme_day: Earth
+  font: merriweather
   font_size: L
 
 # SEO
