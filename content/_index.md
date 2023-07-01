@@ -93,4 +93,5 @@ sections:
           url: ''
     design:
       columns: '2'
-  ---
+
+---
