@@ -37,10 +37,10 @@ sections:
           company_url: ''
           company_logo: rain
           location: Atlanta
-          date_start: '2023-04-01'
-          date_end: ''
+          date_start: '2022-05-01'
+          date_end: '2022-08-30'
           description: |2-
-            Work with researchers at the Bank of Canada in a project using the Bank’s proprietary yearly Bitcoin Omnibus Survey to investigate cryptocurrency ownership. Present weekly on research progress and findings to SURE mentor and project stakeholders.            
+            Joined a startup fintech company to develop technology for independent software vendors (ISVs) to embed payments into their product. Used Go, Python, and Vue JS to specifically collect pertinent information and details from customers using Rainforest technology and storing them in an accessible database.           
     design:
       columns: '2'
   - block: accomplishments
