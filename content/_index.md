@@ -23,7 +23,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: |2-
+        - title: |-
          Research Assistant, Summer Undergraduate Research Experience (SURE) Program
 
         company: Emory University Department of Economics
@@ -41,7 +41,7 @@ sections:
           location: Atlanta
           date_start: '2022-06-01'
           date_end: '2020-08-31'
-          description: |2-
+          description: |-
            Joined a startup fintech company to develop technology for independent software vendors (ISVs) to embed payments into their product. Used Go, Python, and Vue JS to specifically collect pertinent information and details from customers using Rainforest technology and storing them in an accessible database.
 
           - title: Research Intern
@@ -51,7 +51,7 @@ sections:
             location: Atlanta
             date_start: '2021-06-01'
             date_end: '2020-08-31'
-            description: |2-
+            description: |-
             Assisted in developing an Artificial Intelligence system that proactively initiates speech to support elderly people who live alone
     design:
       columns: '2'
