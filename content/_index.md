@@ -109,7 +109,7 @@ sections:
       # To remove the toolbar, delete the entire `filter_button` block.
       buttons:
         - name: All
-          tag: '*'
+          tag: 'All'
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
