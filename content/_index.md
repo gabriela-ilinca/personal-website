@@ -23,19 +23,15 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Undergraduate Researcher
+          company: Emory University Department of Economics
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          location: Atlanta
+          date_start: '2023-04-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+            Work with researchers at the Bank of Canada in a project using the Bank’s proprietary yearly Bitcoin Omnibus Survey to investigate cryptocurrency ownership. Present weekly on research progress and findings to SURE mentor and project stakeholders.
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
