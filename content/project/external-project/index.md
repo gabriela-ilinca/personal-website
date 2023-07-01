@@ -1,5 +1,5 @@
 ---
-title: Are Cryptocurrency Owners Optimistic People?
+title: 'Shinny Happy People: Are Cryptocurrency Owners Optimistic People?'
 summary: Gabriela Coada, Christopher Henry, Kim P. Huynh, David T. Jacho-Chavez
 tags:
   - 'Research'
