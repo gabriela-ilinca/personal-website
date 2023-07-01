@@ -65,14 +65,6 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org/account/accomplishments/professional-cert/85NKQP6TSFY2
-          date_end: ''
-          date_start: '2019-10-28'
-          description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: IBM Data Science
-          url: ''
         - certificate_url: https://www.datacamp.com/statement-of-accomplishment/course/cadc9214519905881ba56b7bb0131beec4162fbf?raw=1
           date_end: ''
           date_start: '2023-06-01'
@@ -81,14 +73,7 @@ sections:
           organization_url: https://www.edx.org
           title: Intermediate Regression with statsmodels in Python
           url: ''
-        - certificate_url: https://www.datacamp.com/statement-of-accomplishment/course/823374d24fb62e8bb7e48d9ffc629d0925d0575f?raw=1
-          date_end: '2023-06-01'
-          date_start: ''
-          description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Dimensionality Reduction in Python'
-          url: 'https://www.datacamp.com'
+
 
 
     design:
