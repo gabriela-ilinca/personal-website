@@ -26,7 +26,7 @@ sections:
         - title: Undergraduate Researcher
           company: Emory University Department of Economics
           company_url: ''
-          company_logo: emory.jpeg
+          company_logo: emory
           location: Atlanta
           date_start: '2023-04-01'
           date_end: ''
