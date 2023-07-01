@@ -49,7 +49,7 @@ sections:
           date_start: '2022-05-01'
           date_end: '2022-08-30'
           description: |2-
-            Joined a startup fintech company to develop technology for independent software vendors (ISVs) to embed payments into their product. Used Go, Python, and Vue JS to specifically collect pertinent information and details from customers using Rainforest technology and storing them in an accessible database.   
+            Assisted in developing an Artificial Intelligence system that proactively initiates speech to support elderly people who live alone  
     design:
       columns: '2'
   - block: accomplishments
@@ -65,30 +65,30 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: https://www.coursera.org/account/accomplishments/professional-cert/85NKQP6TSFY2
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2019-10-28'
           description: ''
           organization: Coursera
           organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          title: IBM Data Science
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
+          date_start: '2023-06-01'
+          description: 
+          organization: DataCamp
           organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+          title: Intermediate Regression with statsmodels in Python
+          url: https://www.datacamp.com/statement-of-accomplishment/course/cadc9214519905881ba56b7bb0131beec4162fbf?raw=1
+        - certificate_url: https://www.datacamp.com/statement-of-accomplishment/course/823374d24fb62e8bb7e48d9ffc629d0925d0575f?raw=1
+          date_end: '2023-06-01'
+          date_start: ''
           description: ''
           organization: DataCamp
           organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
+          title: 'Dimensionality Reduction in Python'
+          url: 'https://www.datacamp.com'
     design:
       columns: '2'
   - block: collection
