@@ -79,7 +79,15 @@ sections:
           description: ''
           organization: DataCamp
           organization_url: datacamp.com
-          title: Intermediate Regression with statsmodels in Python
+          title: Dimensionality Reduction in Python
+          url: ''
+        - certificate_url: https://www.datacamp.com/statement-of-accomplishment/course/823374d24fb62e8bb7e48d9ffc629d0925d0575f?raw=1
+          date_end: ''
+          date_start: '2023-06-01'
+          description: ''
+          organization: DataCamp
+          organization_url: datacamp.com
+          title: Dimensionality Reduction in Python
           url: ''
 
 
