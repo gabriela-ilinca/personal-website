@@ -81,13 +81,13 @@ sections:
           organization_url: datacamp.com
           title: Dimensionality Reduction in Python
           url: ''
-        - certificate_url: https://www.datacamp.com/statement-of-accomplishment/course/823374d24fb62e8bb7e48d9ffc629d0925d0575f?raw=1
+        - certificate_url: https://www.linkedin.com/learning/certificates/6d35eb5e647cb53a8e1d927a6baaa61374f0d42e7470a0979d4456aea07421b1?u=2149178
           date_end: ''
           date_start: '2023-06-01'
           description: ''
-          organization: DataCamp
-          organization_url: datacamp.com
-          title: Dimensionality Reduction in Python
+          organization: LinkedIn
+          organization_url: linkedin.com
+          title: Advanced and Specialized Statistics in Stata
           url: ''
 
 
