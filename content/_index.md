@@ -110,6 +110,9 @@ sections:
       buttons:
         - name: All
           tag: '*'
+        - name: Research
+          tag: 'Research'
+
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
