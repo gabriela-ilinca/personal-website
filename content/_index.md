@@ -35,7 +35,7 @@ sections:
         - title: Software Engineer Intern
           company: Rainforest
           company_url: ''
-          company_logo: rain
+          company_logo: 
           location: Atlanta
           date_start: '2022-05-01'
           date_end: '2022-08-31'
