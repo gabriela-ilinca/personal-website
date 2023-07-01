@@ -26,7 +26,7 @@ sections:
         - title: Research Assistant
           company: Emory University Department of Economics
           company_url: ''
-          company_logo: org-gc
+          # company_logo: org-gc
           location: Atlanta
           date_start: '2023-05-01'
           date_end: ''
@@ -34,7 +34,7 @@ sections:
         - title: Software Engineer Intern
           company: Rainforest
           company_url: ''
-          company_logo: org-gc
+          # company_logo: org-gc
           location: Atlanta
           date_start: '2022-06-01'
           date_end: '2020-08-31'
@@ -43,7 +43,7 @@ sections:
           - title: Research Intern
             company: Georgia Tech Research Institute
             company_url: ''
-            company_logo: 
+            # company_logo: 
             location: Atlanta
             date_start: '2021-06-01'
             date_end: '2020-08-31'
