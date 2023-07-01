@@ -33,6 +33,17 @@ sections:
           description: |2-
             Work with researchers at the Bank of Canada in a project using the Bank’s proprietary yearly Bitcoin Omnibus Survey to investigate cryptocurrency ownership. Present weekly on research progress and findings to SURE mentor and project stakeholders.
 
+         - title: Research Intern
+          company: Emory University Department of Economics
+          company_url: ''
+          company_logo: rain
+          location: Atlanta
+          date_start: '2023-04-01'
+          date_end: ''
+          description: |2-
+            Work with researchers at the Bank of Canada in a project using the Bank’s proprietary yearly Bitcoin Omnibus Survey to investigate cryptocurrency ownership. Present weekly on research progress and findings to SURE mentor and project stakeholders.
+
+
     design:
       columns: '2'
   - block: accomplishments
